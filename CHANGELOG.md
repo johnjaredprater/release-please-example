@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/johnjaredprater/release-please-example/compare/v0.0.0...v0.1.0) (2024-07-29)
+
+
+### Features
+
+* The first feature! ([f976526](https://github.com/johnjaredprater/release-please-example/commit/f976526926799672b9d10f7f6114a8350819846e))
+
 ## 0.0.0 (2024-07-29)
 
 
