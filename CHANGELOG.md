@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/johnjaredprater/release-please-example/compare/v0.1.1...v1.0.0) (2024-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* A breaking change
+
+### Features
+
+* A breaking change ([d4bef1e](https://github.com/johnjaredprater/release-please-example/commit/d4bef1eab2c2d6fdac1e186d0ca4d3f23aa181d8))
+
 ## [0.1.1](https://github.com/johnjaredprater/release-please-example/compare/v0.1.0...v0.1.1) (2024-07-29)
 
 
