@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/johnjaredprater/release-please-example/compare/v1.0.0...v1.1.0) (2024-08-08)
+
+
+### Features
+
+* A second feature! ([ec3c13c](https://github.com/johnjaredprater/release-please-example/commit/ec3c13c340ce0ad3e1121cad94d0c9808eef0839))
+
 ## [1.0.0](https://github.com/johnjaredprater/release-please-example/compare/v0.1.1...v1.0.0) (2024-08-08)
 
 
